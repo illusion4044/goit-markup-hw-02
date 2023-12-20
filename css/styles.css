@@ -53,3 +53,20 @@ letter-spacing: 0.02em;
 .address-link:focus{
     color: #404BBF;
 }
+.main-words {
+    color: #FFF;
+text-align: center;
+font-family: Roboto;
+font-size: 56px;
+font-weight: 700;
+line-height: 1.07;
+letter-spacing: 0.02em;
+}
+.main-button {
+}
+.approach-words {
+}
+.approaches {
+}
+.paragraph-words {
+}
