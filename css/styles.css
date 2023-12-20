@@ -53,9 +53,11 @@ letter-spacing: 0.02em;
 .address-link:focus{
     color: #404BBF;
 }
+
+
+
 .main-words {
-    color: #FFF;
-text-align: center;
+color: #FFF;
 font-family: Roboto;
 font-size: 56px;
 font-weight: 700;
@@ -63,6 +65,27 @@ line-height: 1.07;
 letter-spacing: 0.02em;
 }
 .main-button {
+border-radius: 4px;
+background:  #4D5AE5;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+display: inline-flex;
+padding: 16px 32px;
+align-items: flex-start;
+gap: 10px;
+}
+.button-words{
+color: #FFF;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.04em;
+}
+.main-button:hover,
+.main-button:focus{
+    border-radius: 4px;
+background:  #404BBF;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
 .approach-words {
 }
