@@ -1,23 +1,24 @@
-body{
-    font-family: 'Montserrat', sans-serif;
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color: #FFF;
 }
 
 a{
     text-decoration: none;
 }
 
-ul{
+ul, ol{
     list-style: none;
 }
 
-.link{
-    text-decoration: none;
-}
-
 .header-logo {
-color: ( #2E2F42);
-font-size: 18px;
-font-weight: 700;
-line-height: 1.16px; /* 116.667% */
-letter-spacing: 0.03em;
+}
+.logo-part {
+}
+.nav-link {
+}
+.address {
+}
+.address-link {
 }
