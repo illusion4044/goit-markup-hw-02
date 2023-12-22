@@ -69,6 +69,7 @@ letter-spacing: 0.02em;
 text-align: center
 }
 .main-button {
+    color: #ffffff;
 border-radius: 4px;
 background:  #4D5AE5;
 font-weight: 500;
@@ -104,11 +105,11 @@ background:  #404BBF;
 }
 /*--------------------SECTION3-------------------*/
 .background-section{
-    background-color: #F4F4FD
+    background-color: #F4F4FD;
 }
 
 .list-background{
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
 }
 
 .header{
