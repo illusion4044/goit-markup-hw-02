@@ -4,6 +4,12 @@ body {
     background-color: #FFF;
 }
 
+/*.visually-hidden {
+white-space: nowrap;
+clip-path: insert(100%);
+overflow:hidden;
+}*/
+
 a{
     text-decoration: none;
 }
