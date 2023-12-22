@@ -104,7 +104,11 @@ background:  #404BBF;
 }
 /*--------------------SECTION3-------------------*/
 .background-section{
-    background-color: #FFFFFF;
+    background-color: #F4F4FD
+}
+
+.list-background{
+    background-color: #FFFFFF
 }
 
 .header{
