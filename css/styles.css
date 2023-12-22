@@ -3,25 +3,7 @@ body {
     color: #434455;
     background-color: #FFF;
 }
-.texthidden{
-    position: relative;
-width: 100%;
-height: 200px;
-left: 50%;
-top: 50%;
-box-sizing: border-box;
-display: flex;
-align-items: center;
-padding: 10px;
-flex-direction: row;
-gap: 20px;
-border-radius: 5px;
-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
-order: 1;
-flex-grow: 1;
-border-bottom: 1px solid #000;
-overflow: hidden;
-}
+
 a{
     text-decoration: none;
 }
