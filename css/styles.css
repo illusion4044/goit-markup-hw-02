@@ -70,7 +70,6 @@ text-align: center
 }
 .main-button {
     color: #ffffff;
-border-radius: 4px;
 background:  #4D5AE5;
 font-weight: 500;
 line-height: 1.5;
@@ -90,7 +89,6 @@ letter-spacing: 0.04em;
 }
 .main-button:hover,
 .main-button:focus{
-    border-radius: 4px;
 background:  #404BBF;
 
 }
