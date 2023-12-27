@@ -6,10 +6,24 @@ body {
 
 a{
     text-decoration: none;
+    color: currentColor;
 }
 
 ul, ol{
     list-style: none;
+    margin-top: 0;
+}
+
+.container{
+    width: 1440px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+}
+
+.header{
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .logo {
